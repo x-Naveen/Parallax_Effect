@@ -1,0 +1,54 @@
+body, html {
+  height: 100%;
+}
+
+.firstSection{
+	 position:relative;
+	 
+	 width:96%;
+	 padding:2%
+}
+.firstSection1{
+	 position:relative;
+	 
+	 width:96%;
+	 padding:2%
+}
+.firstSection5{
+	 position:relative;
+	 
+	 width:96%;
+	 padding:2%
+}
+.secondSection{
+	 position:relative;
+	 background:red;
+	 width:96%;
+	 padding:2%;
+	 font-size:36px;
+}
+
+.backsideView{
+	background:url(../images/hdimage4.jpg);
+	height: 50%; 
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backsideView1{
+	background:url(../images/hdimage1.jpg);
+	  height: 100%; 
+	   background-attachment: fixed;
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.backsideView2{
+	background:url(../images/hdimage6.jpg);
+	  height: 50%; 
+	   background-attachment: fixed;
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
